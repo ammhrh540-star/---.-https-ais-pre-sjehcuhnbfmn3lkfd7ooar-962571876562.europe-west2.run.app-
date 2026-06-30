@@ -1,0 +1,6 @@
+{
+  "name": "خطّابة كبار الشخصيات",
+  "description": "منصة خطابة خاصة بالنخبة وكبار الشخصيات في الخليج العربي بسرّية وأمان تام",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
